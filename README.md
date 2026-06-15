@@ -2,6 +2,11 @@
 
 这是一个面向高校官网教师信息采集的自动化项目，目标是把原本依赖八爪鱼的半自动流程，逐步升级为以 Python 为主的可复用采集流程。
 
+配套文档：
+
+- [项目成果说明.md](/Users/xinxinhuashe/Documents/易达威实习/项目成果说明.md)
+- [CHANGELOG.md](/Users/xinxinhuashe/Documents/易达威实习/CHANGELOG.md)
+
 它不是单个“采集脚本”，而是一套可以连续交付的工作流：
 
 - 输入教师列表页 URL 或已有 CSV
