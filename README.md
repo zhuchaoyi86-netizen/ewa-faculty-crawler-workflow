@@ -1,5 +1,9 @@
 # 高校教师信息采集自动化项目
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+[![Python](https://img.shields.io/badge/Python-3-blue.svg)](https://www.python.org/)
+[![Workflow](https://img.shields.io/badge/Workflow-Faculty%20Crawler-orange.svg)](./项目成果说明.md)
+
 这是一个面向高校官网教师信息采集的自动化项目，目标是把原本依赖八爪鱼的半自动流程，逐步升级为以 Python 为主的可复用采集流程。
 
 配套文档：
@@ -20,6 +24,19 @@
 - 当前核心能力：列表页直采、个人页补采、清洗修正、有效统计、院系汇总
 - 有效数据口径：默认要求必须有个人邮箱
 - 工作流特点：尽量跳过八爪鱼，改为全 Python 一体化采集
+
+## 导航
+
+- [快速开始](#快速开始)
+- [项目背景](#项目背景)
+- [流程演进](#流程演进)
+- [当前能力](#当前能力)
+- [核心脚本](#核心脚本)
+- [推荐工作流](#推荐工作流)
+- [使用方式](#使用方式)
+- [业务实践记录](#业务实践记录)
+- [项目成果说明](./项目成果说明.md)
+- [更新记录](./CHANGELOG.md)
 
 ## 快速开始
 
