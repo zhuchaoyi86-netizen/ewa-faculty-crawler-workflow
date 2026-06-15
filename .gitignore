@@ -1,0 +1,17 @@
+.DS_Store
+.vscode/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+日志/
+输出结果/
+测试结果/
+原始输入/
+清洗结果/
+
+*.xlsx
+*.xls
+!模版/教师列表导入模板.xlsx
