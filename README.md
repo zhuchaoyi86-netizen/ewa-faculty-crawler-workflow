@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3-blue.svg)](https://www.python.org/)
 [![Workflow](https://img.shields.io/badge/Workflow-Faculty%20Crawler-orange.svg)](./项目成果说明.md)
 
-这是一个面向高校官网教师信息采集的自动化项目，目标是把原本依赖八爪鱼的半自动流程，逐步升级为以 Python 为主的可复用采集流程。
+这是一个面向高校官网教师信息采集的自动化项目，目标是把原本依赖八爪鱼的半自动流程，逐步优化为以 Python 为主的可复用采集流程。
 
 配套文档：
 
