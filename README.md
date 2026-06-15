@@ -11,7 +11,7 @@
 - [项目成果说明.md](/Users/xinxinhuashe/Documents/易达威实习/项目成果说明.md)
 - [CHANGELOG.md](/Users/xinxinhuashe/Documents/易达威实习/CHANGELOG.md)
 
-它不是单个“采集脚本”，而是一套可以连续交付的工作流：
+其非单个“采集脚本”，而是一套连续交付的工作流：
 
 - 输入教师列表页 URL 或已有 CSV
 - 自动打开个人主页补采邮箱、职称、简介
